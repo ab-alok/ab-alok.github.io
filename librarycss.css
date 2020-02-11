@@ -1,0 +1,15 @@
+h{
+    text-align: center;
+    color: yellow;
+    background-color: black;
+    
+}
+p{
+    text-align: justify;
+    font-size: 16px;
+    color: red;
+}
+img{
+    height: 400px;
+    width: 250px;
+}
